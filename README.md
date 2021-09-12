@@ -1,5 +1,7 @@
 # Hello, Ruby on Rails
 
+https://guides.rubyonrails.org/getting_started.html
+
 ## Installation
 
 ### Homebrew
